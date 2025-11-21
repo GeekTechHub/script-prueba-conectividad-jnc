@@ -1,0 +1,12 @@
+
+Haciendo ping a google.com [2607:f8b0:4002:c1b::65] con 32 bytes de datos:
+Respuesta desde 2607:f8b0:4002:c1b::65: tiempo=38ms 
+Respuesta desde 2607:f8b0:4002:c1b::65: tiempo=44ms 
+Respuesta desde 2607:f8b0:4002:c1b::65: tiempo=35ms 
+Respuesta desde 2607:f8b0:4002:c1b::65: tiempo=36ms 
+
+Estad¡sticas de ping para 2607:f8b0:4002:c1b::65:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 35ms, M ximo = 44ms, Media = 38ms
